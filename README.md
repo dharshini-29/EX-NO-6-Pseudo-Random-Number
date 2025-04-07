@@ -1,4 +1,6 @@
 # EX-NO-6-Pseudo-Random-Number
+# Name:Dharshini K
+# Reg No:212223220017
 
 # AIM: 
 Implementation of Pseudorandom Number Generation Using Standard library
@@ -46,3 +48,4 @@ int main() {
 
 
 # RESULT:
+The implementation of Pseudorandom Number Generation using Standard library is successful.
